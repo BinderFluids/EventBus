@@ -1,7 +1,9 @@
 {
     "name": "EventBus.Editor",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:d35b0935137438e728a4652ce39ed9ee"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [
         "Editor"
